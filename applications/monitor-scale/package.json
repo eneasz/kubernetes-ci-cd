@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node .",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "yarn run snyk-protect"
   },
   "repository": "git+https://github.com/kenzanlabs/kubernetes-ci-cd.git",
   "keywords": [
@@ -28,7 +28,7 @@
     "node-etcd": "7.0.0",
     "request": "2.84.0",
     "socket.io": "2.0.2",
-    "snyk": "^1.69.6"
+    "snyk": "^1.317.0"
   },
   "snyk": true
 }
