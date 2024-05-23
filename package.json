@@ -10,7 +10,7 @@
     "inquirer": "^3.0.6",
     "rx": "^4.1.0",
     "yamljs": "^0.2.8",
-    "request": "2.84.0"
+    "request": "2.88.2"
   },
   "devDependencies": {},
   "scripts": {
