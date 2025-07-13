@@ -1006,10 +1006,10 @@ side-channel@^1.0.6:
     get-intrinsic "^1.2.4"
     object-inspect "^1.13.1"
 
-snyk@^1.69.6:
-  version "1.1293.0"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.1293.0.tgz#a042d7b46d992b5553f284d2782f3374acbc6bdb"
-  integrity sha512-kAMTPHXlOJhcogYk1P2GMmnIIao7ZiQDCznSIdUbQGW68hoaWKghVUlLz4ny+LjjqemE1KII/amVwoFTRoNIlA==
+snyk@^1.1297.3:
+  version "1.1297.3"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.1297.3.tgz#0b4b75d40529560498d375e88e6a892484def35c"
+  integrity sha512-D4gj5Yeg0IdLUfrYObaj/qhg/k7ONO/OmPY8aa3JpZoo/dH3kecUjUqyPgfL9mq7kFswZO5Piwno6PmZ7Dv8Ig==
   dependencies:
     "@sentry/node" "^7.36.0"
     global-agent "^3.0.0"
