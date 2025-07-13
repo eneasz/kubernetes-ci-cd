@@ -28,7 +28,7 @@
     "node-etcd": "7.0.0",
     "request": "2.88.2",
     "socket.io": "4.8.0",
-    "snyk": "^1.69.6"
+    "snyk": "^1.1297.3"
   },
   "snyk": true
 }
